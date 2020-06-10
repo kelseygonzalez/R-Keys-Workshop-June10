@@ -2,7 +2,7 @@
 title: "KEYS R workshop"
 author: "Kelsey Gonzalez"
 date: "6/10/2020"
-output: md_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE,
 # About
 
 This is a short 1 hour and 45 minutes introduction to R and the tidyverse prepared and delivered by [Kelsey Gonzalez](https://kelseygonzalez.github.io/) for BIO5 Institute's [KEYS](https://keys.arizona.edu/) (Keep Engaging Youth in Science) Research Internship Program on June 10, 2020. 
+
+A PDF of this lesson is available [here](https://github.com/kelseygonzalez/R-Keys-Workshop-June10/blob/master/R_KEYS_JUNE9.pdf)
 
 This lesson is largely adapted from [Software](http://swcarpentry.github.io/r-novice-gapminder/) and [Data Carpentry](https://datacarpentry.org/r-socialsci/) materials by Kelsey Gonzalez for use with the [Penguins](https://github.com/allisonhorst/penguins) dataset. 
 
